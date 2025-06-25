@@ -99,7 +99,5 @@ https://github.com/user-attachments/assets/ae45aa70-398a-4281-a282-397b97e620b7
 )
 
 2. Admin Role
-[▶️ Watch demo video](
-https://github.com/user-attachments/assets/ae45aa70-398a-4281-a282-397b97e620b7
-)
+[▶️ Watch demo video](https://github.com/user-attachments/assets/559a635c-a186-4880-8cc2-bbcf46da2634)
    
