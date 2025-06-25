@@ -91,3 +91,15 @@ npm start
 > Ensure the proxy in package.json points to your backend (e.g., "proxy": "http://localhost:8080").
 
 
+### Application
+
+1.User Role
+[▶️ Watch demo video](
+https://github.com/user-attachments/assets/ae45aa70-398a-4281-a282-397b97e620b7
+)
+
+2. Admin Role
+[▶️ Watch demo video](
+https://github.com/user-attachments/assets/ae45aa70-398a-4281-a282-397b97e620b7
+)
+   
